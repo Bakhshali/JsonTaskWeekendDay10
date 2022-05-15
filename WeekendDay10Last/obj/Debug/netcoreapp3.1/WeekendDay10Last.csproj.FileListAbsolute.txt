@@ -1,0 +1,15 @@
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.exe
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.deps.json
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.runtimeconfig.json
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.runtimeconfig.dev.json
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.dll
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\WeekendDay10Last.pdb
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.csproj.AssemblyReference.cache
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.AssemblyInfoInputs.cache
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.AssemblyInfo.cs
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.csproj.CoreCompileInputs.cache
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.dll
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.pdb
+C:\Users\tu78rfrfu\source\repos\WeekendDay10Last\WeekendDay10Last\obj\Debug\netcoreapp3.1\WeekendDay10Last.genruntimeconfig.cache
